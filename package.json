@@ -1,0 +1,20 @@
+{
+  "name": "bitbank",
+  "version": "1.0.0",
+  "description": "Projeto bitbank",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GUIFRE88/bitbank.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module", 
+  "bugs": {
+    "url": "https://github.com/GUIFRE88/bitbank/issues"
+  },
+  "homepage": "https://github.com/GUIFRE88/bitbank#readme"
+}
